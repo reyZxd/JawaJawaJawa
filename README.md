@@ -16,9 +16,9 @@
 + 📸 𝐈𝐠: @reymwmwk112 
 + 🏀 𝐇𝐨𝐛𝐛𝐲: 𝘚𝘱𝘰𝘳𝘵𝘴 + 𝘈𝘯𝘪𝘮𝘦
 + 🎌 𝐖𝐚𝐢𝐟𝐮: 𝘡𝘦𝘳𝘰 𝘛𝘸𝘰 (𝘋𝘢𝘳𝘭𝘪𝘯𝘨 𝘪𝘯 𝘵𝘩𝘦 𝘍𝘙𝘈𝘕𝘟𝘟)
-+ 🔥 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 Obsession: 𝘑𝘶𝘫𝘶𝘵𝘴𝘶 𝘒𝘢𝘪𝘴𝘦𝘯
++ 🔥 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐎𝐛𝐬𝐞𝐬𝐬𝐢𝐨𝐧: 𝘑𝘶𝘫𝘶𝘵𝘴𝘶 𝘒𝘢𝘪𝘴𝘦𝘯
 
-## 🎮 𝗜𝗡𝗦𝗧𝗔𝗟𝗔𝗦𝗜𝗢𝗡
+## 🎮 𝗜𝗡𝗦𝗧𝗔𝗟𝗟 𝗢𝗡 𝗧𝗘𝗥𝗠𝗨𝗫
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ4Z3FhZ3V6Z3BqZzV1bGZ1eWZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNaQ6gWfllcjDO/giphy.gif" width="600">
 </p>
