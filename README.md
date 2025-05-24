@@ -24,18 +24,31 @@
 </p>
 
 $ cd
+
 $ pkg update && pkg upgrade
+
 $ apt install curl git ruby
+
 $ apt install make clang
+
 $ apt install wget curl
+
 $ pkg install python
+
 $ pkg install python-pip
+
 $ pkg install git
-$ git clone https://github.com/reyzXd/ReySpam
-$ cd ReySpam
+
+$ git clone https://github.com/reyzXd/JawaJawaJawa
+
+$ cd JawaJawaJawa
+
 $ pip install psutil
+
 $ make update
+
 $ make install
+
 $ make run
 
 ## 🌟 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
